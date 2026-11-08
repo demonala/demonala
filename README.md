@@ -1,11 +1,11 @@
-# demonala
+﻿# demonala
 
 **Hendry Rokkean Hery** · Papar, Sabah, Malaysia  
 Founder and Lead Developer at **Absolute Immortal Inc.**
 
 Software developer and security researcher building interactive 3D web engines, network recon tooling, and embedded hardware utilities.
 
-```bash
+`ash
 ┌──(demonala㉿absolute-immortal)-[~]
 └─$ whoami --verbose
 [+] identity   : Hendry Rokkean Hery (demonala)
@@ -13,7 +13,11 @@ Software developer and security researcher building interactive 3D web engines, 
 [+] location   : Papar, Sabah, Malaysia
 [+] focus      : 3D WebGL / Network Recon / Embedded Hardware
 [+] status     : iam not real
-```
+`
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" alt="System Analysis Terminal" />
+</p>
 
 ---
 
