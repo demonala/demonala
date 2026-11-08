@@ -1,124 +1,44 @@
-<div align="center">
+# demonala
 
-# ⚡ `D E M O N A L A` ⚡
-### *Founder & Lead Architect @ Absolute Immortal Inc.*
+**Hendry Rokkean Hery** · Papar, Sabah, Malaysia  
+Founder @ **Absolute Immortal Inc.**
 
-<p align="center">
-  <a href="https://github.com/demonala">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF73&center=true&vCenter=true&width=560&lines=iam+not+real;Security+Researcher+%26+Reverse+Engineer;Creative+Developer+%26+3D+Web+Architect;Owner+of+Absolute+Immortal+Inc." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF73?style=for-the-badge&logoColor=060907&labelColor=060907" />
-  <img src="https://img.shields.io/badge/CLEARANCE-IMMORTAL-FFC000?style=for-the-badge&logoColor=060907&labelColor=060907" />
-  <img src="https://img.shields.io/badge/FOCUS-SECURITY_%26_3D-10B981?style=for-the-badge&logoColor=060907&labelColor=060907" />
-</p>
+Software developer and security researcher building interactive 3D web experiences, network recon tooling, and embedded hardware utilities.
 
 ---
 
-</div>
+### What I Work On
 
-```bash
-┌──(demonala㉿kali)-[~]
-└─$ whoami --verbose
-[+] Identity  : Hendry Rokkean Hery (demonala)
-[+] Affiliation: Absolute Immortal Inc.
-[+] Expertise : Security Research • Threat Intelligence • 3D Web Graphics • Automation
-[+] Mindset   : "You clearly don't know who you're talking to..."
-[+] Status    : iam not real
-```
+- **3D Graphics & Games:** WebGL raycasting, retro canvas engines, and browser survival games (including *Don't Mess With Him*).
+- **Network & Recon Tooling:** Python scripts for OSINT, IP metadata inspection, and mobile endpoint auditing.
+- **Embedded & Hardware:** Headless automation, network monitoring, and sensor integration on Raspberry Pi Zero.
+- **Desktop & Media:** Audio-reactive visualizers and live wallpaper engines hooked into media players.
 
 ---
 
-### 🧪 Arsenal & Tech Stack
+### Key Projects
 
-<div align="center">
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `C / C++` `JavaScript` `TypeScript` `PowerShell` `Bash` `HTML5 / CSS3` |
-| **Security & Systems** | `Linux / Kali` `Network Recon (OSINT)` `Reverse Engineering` `Scapy` `Wireshark` |
-| **Creative & 3D Web** | `Three.js` `WebGL / Canvas2D` `Web Audio API` `Raycasting Engines` `Vite` |
-| **Hardware & IoT** | `Raspberry Pi Zero` `Embedded Python` `I2C Sensors` `LiDAR Point Clouds` |
-| **Deployment & Ops** | `Git` `Vercel` `Docker` `GitHub Actions` |
-
-</div>
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[IP-DIGGER](https://github.com/demonala/IP-DIGGER)** | Python | Fast IP metadata and network reconnaissance utility. |
+| **[NightCrawler-](https://github.com/demonala/NightCrawler-)** | Python | Network recon and OSINT script tailored for mobile/Termux environments. |
+| **[Spotify-Wallpaper-Player](https://github.com/demonala/Spotify-Wallpaper-Player)** | JS / Web | Desktop wallpaper player syncing ambient visuals with Spotify playback. |
+| **[For-me-Pi-zero](https://github.com/demonala/For-me-Pi-zero)** | Python / Shell | Automation, system daemons, and experiments on Raspberry Pi Zero. |
+| **[Kjagu-Development-State](https://github.com/demonala/Kjagu-Development-State)** | Python | Security research exploring threat detection and anti-spyware telemetry. |
+| **[abouthendry](https://github.com/demonala/abouthendry)** | WebGL / HTML | Personal site featuring an interactive 3D Nextbot maze survival game. |
 
 ---
 
-### ⚡ Featured Repositories & Research
+### Stack & Tools
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎯 <a href="https://github.com/demonala/IP-DIGGER">IP-DIGGER</a></h4>
-      <p>High-velocity reconnaissance and target intelligence tool. Rapidly analyzes IP metadata, ASN data, and network topology.</p>
-      <code>Python</code> <code>OSINT</code> <code>Network Intelligence</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🕷️ <a href="https://github.com/demonala/NightCrawler-">NightCrawler-</a></h4>
-      <p>Tactical reconnaissance utility optimized for mobile and Android environments. Deep OSINT discovery and endpoint auditing.</p>
-      <code>Python</code> <code>Recon Utility</code> <code>Android</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/demonala/Kjagu-Development-State">Kjagu & KarenoSecurity</a></h4>
-      <p>Security research framework focused on telemetry analysis, threat vector detection, and anti-spyware defenses.</p>
-      <code>Security Research</code> <code>Threat Defense</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎵 <a href="https://github.com/demonala/Spotify-Wallpaper-Player">Spotify-Wallpaper-Player</a></h4>
-      <p>Dynamic desktop media engine syncing ambient visuals and wallpaper animations with live Spotify playback.</p>
-      <code>JavaScript</code> <code>Media Engine</code> <code>Audio Reactive</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🍓 <a href="https://github.com/demonala/For-me-Pi-zero">For-me-Pi-zero</a></h4>
-      <p>Embedded systems, automated daemons, and portable network experiments engineered on the Raspberry Pi Zero.</p>
-      <code>Hardware / IoT</code> <code>Raspberry Pi</code> <code>Embedded</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎮 <a href="https://github.com/demonala">3D Nextbot Maze Survival</a></h4>
-      <p>Fast-paced 3D browser survival game featuring real-time raycasting, adaptive AI stalker bots, and retro horror mechanics.</p>
-      <code>Three.js</code> <code>WebGL</code> <code>Game Dev</code>
-    </td>
-  </tr>
-</table>
+- **Languages:** Python, C++, JavaScript, TypeScript, Bash, PowerShell
+- **Platforms:** Linux (Debian, Kali), Raspberry Pi OS, Windows
+- **Graphics & Audio:** WebGL, Three.js, Canvas API, Web Audio API
+- **Networking:** Scapy, raw sockets, Wireshark, Nmap
 
 ---
-
-### 📊 Telemetry & Live GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=demonala&show_icons=true&theme=tokyonight&bg_color=060907&title_color=00FF73&text_color=F2F5F3&icon_color=FFC000&border_color=1f2e26&hide_border=false" width="48%" alt="demonala stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=demonala&theme=tokyonight&background=060907&ring=00FF73&fire=FFC000&currStreakLabel=00FF73&sideLabels=F2F5F3&dates=9BAEA3&border=1f2e26&hide_border=false" width="48%" alt="demonala streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonala&layout=compact&theme=tokyonight&bg_color=060907&title_color=00FF73&text_color=F2F5F3&border_color=1f2e26&hide_border=false" width="48%" alt="demonala languages" />
-
-</div>
-
----
-
-<div align="center">
 
 ```
-   _____  ______ __  __  ____  _   _          _            
-  |  __ \|  ____|  \/  |/ __ \| \ | |   /\   | |        /\ 
-  | |  | | |__  | \  / | |  | |  \| |  /  \  | |       /  \
-  | |  | |  __| | |\/| | |  | | . ` | / /\ \ | |      / /\ \
-  | |__| | |____| |  | | |__| | |\  |/ ____ \| |____ / ____ \
-  |_____/|______|_|  |_|\____/|_| \_/_/    \_\______/_/    \_\
+$ curl -s https://api.github.com/users/demonala | grep bio
+"bio": "iam not real"
 ```
-
-<p align="center">
-  <b>Absolute Immortal Inc.</b> • <i>All rights reserved.</i><br/>
-  <sub>Encrypted • Decentralized • Unstoppable</sub>
-</p>
-
-</div>
